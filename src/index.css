@@ -31,3 +31,19 @@ table {
 .celebrity-table-row:hover {
   background-color: rgba(20, 20, 200, 0.2);
 }
+
+
+nav {
+  background-color: rgb(20, 20, 200);
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+nav > a {
+  color: white;
+  text-decoration: none;
+  margin: 5px;
+}
